@@ -1,0 +1,28 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+.project {
+    margin-bottom: 20px;
+    background-color: #fff; 
+    border-radius: 5px; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
+    padding: 15px; 
+}
+
+.project h2 {
+    font-size: 24px;
+    margin-bottom: 10px; 
+}
+
+.project p {
+    font-size: 16px;
+    color: #444; 
+}
